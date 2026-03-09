@@ -1,0 +1,9 @@
+[submodule "extensions/memory-tdai"]
+	path = extensions/memory-tdai
+	url = git@git.woa.com:ruidaxu/tdai-memory-openclaw-plugin.git
+[submodule "extensions/memory-openviking"]
+	path = extensions/memory-openviking
+	url = https://github.com/volcengine/OpenViking.git
+[submodule "extensions/memory_agent_memory"]
+	path = extensions/memory_agent_memory
+	url = https://git.woa.com/cloud_nosql/tdai/agent_memory.git
