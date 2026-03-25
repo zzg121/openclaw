@@ -1,0 +1,3 @@
+[submodule "extensions/memory-tdai"]
+	path = extensions/memory-tdai
+	url = https://git.woa.com/cloud_nosql/tdai/tdai-memory-openclaw-plugin.git
